@@ -1,4 +1,4 @@
-#Precipitation-prevision
+# Precipitation-prevision
 Projet de statistique appliquée à la climatologie sous MatLab
 D’après les tests de tendance et stationnaire, que ce soit statistique ou graphique qu’on a fait, on peut en
 déduire que la série en occurrence est **Non-Stationnaire**. La série temporelle présente à
